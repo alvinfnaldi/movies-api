@@ -1,0 +1,97 @@
+{
+    "users": [
+      {
+        "username": "admin",
+        "password": "admin",
+        "role": "admin",
+        "id": 1
+      },
+      {
+        "username": "alvin",
+        "password": "123",
+        "transaction": [],
+        "id": 2
+      }
+    ],
+    "movies": [
+      {
+        "id": 1,
+        "title": "Mencuri Raden Saleh",
+        "rate": "9.0",
+        "runtime": 154,
+        "genre": "Crime",
+        "plot": "The biggest heist of the century is just days away from its execution. The gang is complete and ready to carry out a mission to steal the painting of the maestro, Raden Saleh, entitled The Arrest of Diponegoro. Counterfeiting, hacking, fighting, and manipulation take place in a premeditated heist run by a group of young amateurs.",
+        "playingAt": [
+          9,
+          14,
+          16,
+          20
+        ],
+        "director": "Angga Dwimas Sasongko",
+        "poster": "https://image.tmdb.org/t/p/w500/1fdqRcgEYNkXCnnKAzz2JtFnUv7.jpg",
+        "linkTrailer": "https://youtu.be/DN3sRz_veBU",
+        "directorImage": "",
+        "seats": 100,
+        "booked": []
+      },
+      {
+        "id": 2,
+        "title": "Nope",
+        "rate": "7.1",
+        "runtime": 130,
+        "genre": "Mystery",
+        "plot": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
+        "playingAt": [
+          20,
+          22
+        ],
+        "director": "Jordan Peele",
+        "poster": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+        "linkTrailer": "https://youtu.be/ckc2YbIEyTo",
+        "directorImage": "",
+        "seats": 100,
+        "booked": []
+      },
+      {
+        "id": 3,
+        "title": "Pengabdi Setan 2: Communion",
+        "rate": "7.1",
+        "runtime": 119,
+        "genre": "Horror",
+        "plot": "After moving from their home to an apartment building, a new terror awaits Rini’s family.",
+        "playingAt": [
+          16,
+          20,
+          22
+        ],
+        "director": "Joko Anwar",
+        "poster": "https://image.tmdb.org/t/p/w500/5MK8njK8trk1xM1KeGSVd69AAvn.jpg",
+        "linkTrailer": "https://youtu.be/8LIHcd7WfWI",
+        "directorImage": "",
+        "seats": 100,
+        "booked": []
+      },
+      {
+        "id": "4",
+        "title": "Sayap Sayap Patah",
+        "rate": "5.0",
+        "runtime": 110,
+        "genre": "Drama",
+        "plot": "In 2018, the headquarters of the Mobile Brigade Command Headquarters in Kelapa Dua, Depok was attacked by terrorists who tried to break into the detention center and killed 5 members of Densus 88.",
+        "playingAt": [
+          9,
+          14,
+          16,
+          20
+        ],
+        "director": "Rudy Soedjarwo",
+        "poster": "https://image.tmdb.org/t/p/w500/1r1vp678jbvsOwgCIW0hc4JQeHA.jpg",
+        "linkTrailer": "https://youtu.be/jiK1A3BhEBQ",
+        "directorImage": "",
+        "seats": 100,
+        "booked": []
+      }
+    ],
+    "transaction": [],
+    "transactionDetail": []
+  }
